@@ -1,0 +1,38 @@
+_repo: DulcibelA-Tale-of-Old-Salem_20569
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 20569-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Peterson, Henry
+    birthdate: 1818
+    deathdate: 1891
+    gutenberg_agent_id: '9394'
+    url: http://www.gutenberg.org/2009/agents/9394
+description: ''
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20569'
+  lccn: 07012980
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Witches -- Fiction'
+- !lcsh 'Trials (Witchcraft) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Salem (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+title: 'Dulcibel: A Tale of Old Salem'
+url: http://www.gutenberg.org/ebooks/20569
